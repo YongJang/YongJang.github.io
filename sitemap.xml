@@ -139,12 +139,6 @@
   </url>
   
   <url>
-    <loc>https://yongjang.github.io/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yongjang.github.io/tags/image-gallery/</loc>
     <lastmod>2013-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -231,6 +225,12 @@
   <url>
     <loc>https://yongjang.github.io/tags/vimeo/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yongjang.github.io/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
