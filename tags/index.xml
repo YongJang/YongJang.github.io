@@ -6,10 +6,19 @@
     <description>Recent content in Tags on YONGJANG&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yongjang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://yongjang.github.io/tags/blog/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yongjang.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chinese</title>
@@ -98,6 +107,15 @@
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://yongjang.github.io/tags/html-elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://yongjang.github.io/tags/hugo/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yongjang.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
