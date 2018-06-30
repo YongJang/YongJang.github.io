@@ -17,16 +17,15 @@
       <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yongjang.github.io/2018/06/machine-learning%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%88%98%ED%95%99-%EA%B3%B5%EB%B6%80-%EB%A6%AC%EC%8A%A4%ED%8A%B8/</guid>
-      <description>통계 기초(QSTUDY) -&amp;gt; http://www.qstudy.kr/?m=562, 교재 -&amp;gt; https://www.amazon.com/Probability-Statistical-Inference-Robert-Hogg/dp/0321923278 답지 -&amp;gt; https://www.chegg.com/study  심화(독학) -&amp;gt; https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126
-수학 : 선형대수(수학과, 독학) 교재 -&amp;gt; https://www.pearson.com/us/higher-education/program/Friedberg-Linear-Algebra-4th-Edition/PGM252241.html
+      <description>Machine Learning과 관련 논문들을 이해하기 위한 수학 공부 리스트
+통계 기초(QSTUDY) -&amp;gt; http://www.qstudy.kr/?m=562 교재 -&amp;gt; https://www.amazon.com/Probability-Statistical-Inference-Robert-Hogg/dp/0321923278 답지 -&amp;gt; https://www.chegg.com/study 심화(독학) -&amp;gt; https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126  수학 : 선형대수(수학과, 독학) 교재 -&amp;gt; https://www.pearson.com/us/higher-education/program/Friedberg-Linear-Algebra-4th-Edition/PGM252241.html
 해석학(Uniwise) -&amp;gt; http://uniwise.co.kr/uniwiseWeb/lecture/movieLectureDetail.html?subNo=2&amp;amp;searchSubjectCode=1020&amp;amp;searchLeccode=D201500118 교재-&amp;gt; https://www.amazon.com/Introduction-Real-Analysis-Robert-Bartle/dp/0471433314
 다변수해석학(pending) 교재 -&amp;gt; https://www.amazon.com/Analysis-Manifolds-Advanced-Books-Classics/dp/0201315963/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1530336402&amp;amp;sr=1-1&amp;amp;keywords=munkres+analysis+on+manifolds
 위상수학(Uniwise) -&amp;gt; http://uniwise.co.kr/uniwiseWeb/lecture/movieLectureDetail.html?subNo=2&amp;amp;searchSubjectCode=1128&amp;amp;searchLeccode=D201500138 교재 -&amp;gt; https://www.amazon.com/Topology-Classic-Classics-Advanced-Mathematics/dp/0134689518/ref=sr_1_2?s=books&amp;amp;ie=UTF8&amp;amp;qid=1530336101&amp;amp;sr=1-2&amp;amp;keywords=topology+munkres
 실해석학(Uniwise) -&amp;gt; http://uniwise.co.kr/uniwiseWeb/lecture/movieLectureDetail.html?subNo=2&amp;amp;searchSubjectCode=1223&amp;amp;searchLeccode=D201500250 교재 -&amp;gt; https://www.amazon.com/Analysis-Classic-Classics-Advanced-Mathematics/dp/0134689496/ref=sr_1_2?s=books&amp;amp;ie=UTF8&amp;amp;qid=1530336166&amp;amp;sr=1-2&amp;amp;keywords=royden+real+analysis
 함수해석학(UCCS) -&amp;gt; https://www.youtube.com/playlist?list=PLBC73B96341ECF455 교재 -&amp;gt; http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&amp;amp;mallGb=ENG&amp;amp;barcode=9780471504597&amp;amp;orderClick=LAG&amp;amp;Kc=
 푸리에 해석학(조화해석 대체, 독학) 교재 -&amp;gt; http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&amp;amp;mallGb=ENG&amp;amp;barcode=9780691113845&amp;amp;orderClick=LEC&amp;amp;Kc=
-C/S: 정보이론(Youtube) -&amp;gt; https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6 교재 -&amp;gt; https://www.amazon.com/gp/product/0521642981/ref=oh_aui_detailpage_o00_s00?ie=UTF8&amp;amp;psc=1
-컴퓨터 비전(Udacity) -&amp;gt; https://www.udacity.com/course/introduction-to-computer-vision--ud810 교재 -&amp;gt; https://www.amazon.com/gp/product/013608592X/ref=oh_aui_detailpage_o01_s00?ie=UTF8&amp;amp;psc=1</description>
+C/S: 정보이론(Youtube) -&amp;gt; https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6 교재 -&amp;gt; https://www.</description>
     </item>
     
   </channel>
