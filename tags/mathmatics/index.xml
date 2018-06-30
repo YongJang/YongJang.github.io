@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Story on YONGJANG&#39;s BLOG</title>
-    <link>https://yongjang.github.io/categories/my-story/</link>
-    <description>Recent content in My Story on YONGJANG&#39;s BLOG</description>
+    <title>Mathmatics on YONGJANG&#39;s BLOG</title>
+    <link>https://yongjang.github.io/tags/mathmatics/</link>
+    <description>Recent content in Mathmatics on YONGJANG&#39;s BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://yongjang.github.io/categories/my-story/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yongjang.github.io/tags/mathmatics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,17 +27,6 @@
 푸리에 해석학(조화해석 대체, 독학) 교재 -&amp;gt; http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&amp;amp;mallGb=ENG&amp;amp;barcode=9780691113845&amp;amp;orderClick=LEC&amp;amp;Kc=
 C/S: 정보이론(Youtube) -&amp;gt; https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6 교재 -&amp;gt; https://www.amazon.com/gp/product/0521642981/ref=oh_aui_detailpage_o00_s00?ie=UTF8&amp;amp;psc=1
 컴퓨터 비전(Udacity) -&amp;gt; https://www.udacity.com/course/introduction-to-computer-vision--ud810 교재 -&amp;gt; https://www.amazon.com/gp/product/013608592X/ref=oh_aui_detailpage_o01_s00?ie=UTF8&amp;amp;psc=1</description>
-    </item>
-    
-    <item>
-      <title>Hugo로 블로그 만들기</title>
-      <link>https://yongjang.github.io/2018/06/hugo%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yongjang.github.io/2018/06/hugo%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</guid>
-      <description>테스트 아아아
-하나 둘 셋 가나다 가나다라
-가나다라마</description>
     </item>
     
   </channel>

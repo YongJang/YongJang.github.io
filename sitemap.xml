@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yongjang.github.io/2018/06/machine-learning%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%88%98%ED%95%99-%EA%B3%B5%EB%B6%80-%EB%A6%AC%EC%8A%A4%ED%8A%B8/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yongjang.github.io/2018/06/hugo%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
@@ -168,14 +173,26 @@
   </url>
   
   <url>
+    <loc>https://yongjang.github.io/tags/machine-learning/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yongjang.github.io/tags/markdown/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://yongjang.github.io/tags/mathmatics/</loc>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yongjang.github.io/categories/my-story/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -187,7 +204,7 @@
   
   <url>
     <loc>https://yongjang.github.io/post/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -253,7 +270,7 @@
   
   <url>
     <loc>https://yongjang.github.io/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
